@@ -1,2 +1,3 @@
-(https://app.codacy.com/manual/pujamudaliar/subrepo/dashboard)
+https://img.shields.io/github/issues/pujamudaliar/subrepo
+
 Test subrepository
